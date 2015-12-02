@@ -1,9 +1,12 @@
+build
+
 *.class
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
 # Vi temp files #
 .*.swp
+
+/dist/
